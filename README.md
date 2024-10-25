@@ -27,6 +27,9 @@ This project is a weather dashboard application that enables users to search for
    ```bash
    npm i
    
-3. Run application:
+3. Sign up for a free account on OpenWeatherMap, then Create an API key and add it  weather.js file:
+   API_KEY=your_api_key_here
+   
+4. Run application:
    ```bash
    npm run dev
